@@ -1,2 +1,2 @@
 # TurtleCrossingGame
-Simple Frogger Copy Game
+Simple Frogger copy game made with the Turtle module.
